@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle general to them who are of the royal priest-hood and chosen generation given forth from the movings of the power and spirit of truth, and now made publick to be sent abroad among the saints scattered in old and New England, Germany, Holland, Ireland, Scotland, Barbadoes, and Virginia, for them to read in the fear of the Lord.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40169</idno>
+            <idno type="STC">Wing F1802</idno>
+            <idno type="STC">ESTC R10556</idno>
+            <idno type="EEBO-CITATION">12927395</idno>
+            <idno type="OCLC">ocm 12927395</idno>
+            <idno type="VID">95571</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40169)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95571)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 692:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle general to them who are of the royal priest-hood and chosen generation given forth from the movings of the power and spirit of truth, and now made publick to be sent abroad among the saints scattered in old and New England, Germany, Holland, Ireland, Scotland, Barbadoes, and Virginia, for them to read in the fear of the Lord.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: G.F.</note>
+                  <note>Attributed to George Fox. Cf. Halkett &amp; Laing (2nd ed.).</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95571:1"/>
+            <pb facs="tcp:95571:1" rendition="simple:additions"/>
+            <p>AN Epiſtle General To them who are of the ROYAL PRIEST-HOOD AND CHOSEN GENERATION.</p>
+            <p>Given forth from the Movings of the Power and Spirit of Truth, and now made publick to be ſent abroad among the Saints ſcattered in Old and New <hi>England, Germa<g ref="char:EOLhyphen"/>ny, Holland, Ireland, Scotland, Bar<g ref="char:EOLhyphen"/>badoes,</hi> and <hi>Virginia,</hi> for them to read in the Fear of the Lord.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Thomas Simmons,</hi> at the ſign of the <hi>Bull</hi> and <hi>Mouth,</hi> neer <hi>Alderſgate,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:95571:2"/>
+            <pb n="3" facs="tcp:95571:2" rendition="simple:additions"/>
+            <opener>
+               <salute>FRIENDS,</salute>
+            </opener>
+            <p>LEt all that you do be done in the Name of the Lord Jeſus Chriſt, by whom all things was made and created, that you may do that which you do in the true Dominion, and then what you do, ye do in the Power of God; and all Friends, dwell in love, for that is the mark of the Diſciple, and the fruits of Faith and the Spi<g ref="char:EOLhyphen"/>rit, which is the end of the Commandement, out of a pure heart, and fulfils the Law that Edifies, and in that is edification, and building, and the fruits of being paſt from death to life, there is love to Bre<g ref="char:EOLhyphen"/>thren and Enemies, being in the ſeed that deſtroys death, and the power of it the Devil.</p>
+            <p>We need no Maſs for to teach us, for the Spirit that gave forth Scripture teacheth us how to pray, ſing, praiſe, rejoyce, honor and worſhip God, and in what and how to walk, and to behave our ſelves to God and man, and leadeth us into all truth, in which is our unity, and Comforter, and Guide, and Leader, and not men without, which ſay they have not the Spirit and Power, as the Apoſtles had that gave forth the Scriptures; and we need not your Common Prayer to teach us, for the Spirit that gave forth Scriptures, teacheth us how to pray, praiſe, ſing, faſt, and to give thanks, and praiſe and worſhip, and in what and how to honor and glori<g ref="char:EOLhyphen"/>fie God, and how to walk to him and men, and all Creatures upon the Earth, and leadeth and guideth
+<pb n="4" facs="tcp:95571:3"/>
+into all Truth, which was given forth from it, which reproves the World of ſin, that is our Comforter, Leader, and Guide, by which we know sonſhip, in which we have unity, and this doth never change: But that which man doth invent, prayers and forms, which doth ſay that they have not the ſame Spirit which gave forth the Scriptures; ſo the ſpirit that gave forth Scriptures teacheth us how to pray, ſpeak, ſing, faſt, give thanks, and how to read, and to walk to God and man, and how to worſhip God, and in what, for it leadeth us into all Truth, which is our Comforter, in which we have unity, and fel<g ref="char:EOLhyphen"/>lowſhip, and to know our Religion which doth ne<g ref="char:EOLhyphen"/>ver change; and ſo the Spirit of Truth which gave forth Scripture is our Director, Guide, Leader and Comforter, which reproveth the world for ſin, and this leadeth to ſee the end of all Directories which man invents, which have not the Spirit the Apoſtles had, and when they cannot hold it up, they cry to the Powers of the Earth to help them; and theſe we ſee from the Spirit erred, and without the Spi<g ref="char:EOLhyphen"/>rit, with whom we cannot truſt our bodies, ſpirits, nor ſouls, into their hands, but hath committed them up to the Lord whoſe they are.</p>
+            <p>And we are a people that are redeemed from the Earth, and World, and need none of your Church made Faith which you have framed and made in a eleven daies time, and your other three daies ſet a<g ref="char:EOLhyphen"/>part; for Chriſt is the Author of our Faith, which is the gift of God, which is a miſtery held in a pure Conſcience, and we ſay that all the Prieſts in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> and <hi>London,</hi> and <hi>New-England,</hi> cannot make
+<pb n="5" facs="tcp:95571:3"/>
+the Gift of God, the miſtery, which is the Faith which remains, and by which men are juſtified, and ſaved, neither have they power over it which brings us to have acceſs to God, and giveth us vi<g ref="char:EOLhyphen"/>ctory over that which ſeparated us from God, and ſo we need none of their Faith to lead us, for the Faith Chriſt is the Author of, we live in, which they cannot make nor frame, and though they may cry to the Magiſtrates to help them to uphold their made Faith, which Idol they cannot hold up them<g ref="char:EOLhyphen"/>ſelves, which they have invented, and ſay, they are not in the Life and Power as they was in that gave forth the Scriptures, and ſay Revelations cea<g ref="char:EOLhyphen"/>ſed from people, and there is no Victory while they be upon the Earth; this is the fruits of their framed Faith, which we need not, for the Spirit that gave forth the Scriptures, teacheth us to know who is the Author of our Faith, and the fruits of it which giveth Victory, and the Spirit teacheth us how to pray, ſing, give thanks, praiſe, rejoyce, faſt, worſhip God, and in what, and how to walk to God and man, and leadeth us into all Truth, the Re<g ref="char:EOLhyphen"/>prover of the World for ſin, which is our Comfor<g ref="char:EOLhyphen"/>ter, Guide, and Leader, and Director, in which we have unity and fellowſhip that is without end, and a pure Religion that doth never change.</p>
+            <p>And a great deal of ſtuff there is in their Books, which is not worth mentioning, which it and the Nature will rot that gave it forth; but the Seed, and Life, and Power will ſtand; Church Faith changeth, Directory changes, Common Prayer changes, and Maſs changes; and here is the Four
+<pb n="6" facs="tcp:95571:4"/>
+Religions which is got up ſince the Apoſtles daies, which they have fought for and killed one another about, but the pure Religion, doth not change which we are of and own, in which is the Spiritual weapons, which were amongſt the Apoſtles, the true Faith changeth not, for it abideth and re<g ref="char:EOLhyphen"/>mains, which is the gift of God, and a miſtery held in a pure Conſcience, <hi>Rom.</hi> 13. of which we are, and which is our Faith; Maſs for the Papiſts, Com<g ref="char:EOLhyphen"/>mon Prayer for the Epiſcopal men, and the Dire<g ref="char:EOLhyphen"/>ctory for the Preſbiterians, Church-made framed Faith, for the Independants and mixt Baptiſts, and others, and thoſe have had their fellowſhip in theſe, for which they fought, and about which Carnal weapons got up ſince the daies of the Apo<g ref="char:EOLhyphen"/>ſtles; but the fellowſhip in the Spirit remains and doth not change, which hath ſpiritual Weapons, and are known to fight withal about Religion, in which the Seed of God is known which bruiſeth the Serpents head, which led man from God, and made a ſeparation betwixt man and God, and the Election known before the world began, who is the Head of our Church, and not them that be Head of the Maſs, Head of your Directory, Head of the Common Prayer, and Head of the Church-made Faith, which we ſee all changes and comes to nought, and God confounds, and men ſtands in Doubts, and Queſtions, and have no aſſurance in their Religion; but that of God ſtands in them all bound.</p>
+            <p>They that followed the Pope was called Papiſts, and them that proteſted againſt the Pope was cal<g ref="char:EOLhyphen"/>led
+<pb n="7" facs="tcp:95571:4"/>
+Proteſtants; and thus they gave names one to another, and ſo Common Prayer men, and Dire<g ref="char:EOLhyphen"/>ctory men, and Independants men, and Baptiſts men; and thus in the Envy, out of the Love, out of the Spirit which gave forth the Scrip<g ref="char:EOLhyphen"/>tures, gave Names one to another, all which we Judg; our Faith, our Church, our Unity is in the Spirit, and our Word at which we tremble, was in the beginning before the Papiſts mens Maſs, and your Epiſcopals Common Prayer, and the Preſbi<g ref="char:EOLhyphen"/>terians Directory, and Independants, Baptiſts, and other Church-made framed Faith was, and our Unity, Church, and Fellowſhip will ſtand, when they are all ended, by which Spirit we all judg them, and deny their works, in which is our Unity with God, with Scriptures, and one with another, for they have been to people like ſo many changa<g ref="char:EOLhyphen"/>ble Coverings; but now the Spirit is taking them off, by which we are covered, and is our weapons, in this day of great battel with them; the Scrip<g ref="char:EOLhyphen"/>tures which you do ſpeak, and ſhew forth in all your Books, is owned, but your imaginations of them we deny; but they are all owned in them<g ref="char:EOLhyphen"/>ſelves and places, ſo they are all ours, which end in Chriſt, which is ours, and in whom we are that re<g ref="char:EOLhyphen"/>maineth; the Maſs is the Papiſts Sacrifice that they kill about, the Common Prayer is the Epiſcopals Sacrifice, that they perſecute and kill about, and the Directory is the Preſbiterians Sacrifice they per<g ref="char:EOLhyphen"/>ſecute and kill about, the made Framed Church Faith is that which the Independants and Baptiſts Sacrifice, which they kill and perſecute about,
+<pb n="8" facs="tcp:95571:5"/>
+which Sacrifice the Lord doth not accept, neither he hath reſpect to, which is from them which hath Erred from the Spirit which the Apoſtles was in, with which they offered ſpiritual Sacrifice to God the Father of Spirits which we are in.</p>
+            <p>And all my dear hearts, all know the Fellow<g ref="char:EOLhyphen"/>ſhip of the Seed in its ſuffering, and to be made conformable to his Death, that you in the Suffe<g ref="char:EOLhyphen"/>ring, through it may know the Power of the Reſur<g ref="char:EOLhyphen"/>rection of the juſt Seed, and this is it which kills all bad Spirits, that will talk but not do with the Seed, ſuch may crucifie Chriſt in themſelves afreſh; therefore mind the dayly ſuffering which the Seed had, and have unity with that, ſo you may riſe with that, which deſtroyes that which cauſeth it to ſuffer.</p>
+            <p>The Papiſts cries Higher Power help, help, or elſe my Maſs will go down, and all my Ceremonies; The Epiſcopal Men cries help, help Higher Power, or elſe my Common Prayer goes down: the Preſbi<g ref="char:EOLhyphen"/>terians cries help, help Higher Power, or elſe my Directory will down: the Independants, and Ana<g ref="char:EOLhyphen"/>baptiſts, and others cries help, help Higher Powers, or elſe my framed Faith, which is my eleven daies work will down, and we ſhall not ſtand; Are not you aſhamed all, and ſhews you are naked, out of the Power and Life the Apoſtles was in, and from their Weapons are naked; the outward Power neither upheld nor ſeparated them from the Love of God which they had in Chriſt the end of the Law, I am not one of them that calls themſelves Papiſts, Common Prayer men, nor Preſbiterians,
+<pb n="9" facs="tcp:95571:5"/>
+Independant, nor Anabaptiſts, Puritans, nor Hea<g ref="char:EOLhyphen"/>then, which be out of the Life of God; but that which God hath called me to, that I am, and the E<g ref="char:EOLhyphen"/>lect before the World began: this is to go every where all abroad amongſt Friends, who are of the Royal Prieſt-hood, which deſtroyes that that made a ſeparation from God: from the Royal Seed goes the Royal Commandement, which Seed remains for ever, from the Royal Seed to the Royal Seed, which are the Royal Prieſt-hood, which hath the Royal Law, and Love to Friends and Enemies, which is beyond the Love of the World, and be<g ref="char:EOLhyphen"/>fore it was, that is the Royal Love where no Enmi<g ref="char:EOLhyphen"/>ty can come; <hi>Forgive us as we forgive them,</hi> cries Pa<g ref="char:EOLhyphen"/>piſts, cries Epiſcopal, cries Preſbiterians, and Bap<g ref="char:EOLhyphen"/>tiſts, and Independants; theſe cries and ſaith the Lords Prayer, <hi>Forgive us our debts and treſpaſſes, as we forgive them that treſpaſs againſt us;</hi> and then like a company of ſenceleſs men, without underſtanding falls a fighting one with another about their treſ<g ref="char:EOLhyphen"/>paſſes and debts, and never minded what they pray<g ref="char:EOLhyphen"/>ed, as though they never looked for forgiveneſs, and to receive the things they prayed for, that praies, <hi>Forgive us Lord as we forgive them,</hi> and falls a perſecuting, and impriſoning one another, and ta<g ref="char:EOLhyphen"/>king their Brethren and fellow ſervants by the throat, about Religion, which in their prayers they ſaid, <hi>Forgive us as we forgive them,</hi> and will not for<g ref="char:EOLhyphen"/>give, but ſaith their Prayers as the Phariſees did the Scriptures, <hi>and did not.</hi> This is he that muſt be caſt into Priſon untill he pay the utmoſt farthing, and muſt not come out; and this hath been their work
+<pb n="10" facs="tcp:95571:6"/>
+ſince the Apoſtles daies, and is not here Law? The Apoſtles and Chriſt did not bid that any ſhould kill about their words, but that they ſhould love Ene<g ref="char:EOLhyphen"/>mies; So you will kill about their words which were killed for ſpeaking them forth. And ſo all Friends, dwell in the Seed of God which is Heir of the Power of the World which is without end, in that dwell and keep your Meetings, that you may all be Poſſeſſors.</p>
+            <p>All Religions will fight about Religions, and Worſhips, kill like the Heathen about their Gods, Jews, Gentiles, Papiſts, Proteſtants, of all Sects, which be out of the Power of the Lord, and the Spi<g ref="char:EOLhyphen"/>rit that the Apoſtles was in, and ſo they be all out of the Royal Spirit, that hath the Royal Spiritual Wea<g ref="char:EOLhyphen"/>pons, and out of the Royal Seed which ſaith <hi>Love Enemies,</hi> which is the Royal-Command, to the Roy<g ref="char:EOLhyphen"/>al Prieſthood: and they confeſs they have not the ſame power and ſpirit of the Apoſtles; So then its true for them to ſay, we are not the ſpiritual men, we have not ſpiritual weapons to fight withal; if you do not help us, Higher Powers, we fall, for we hold our Traditions, and that which we have is by Tradition, is by the Earthly Powers; for we are not made Miniſters as the Apoſtles was by the imme<g ref="char:EOLhyphen"/>diate Spirit and Power and Gifts as the Apoſtles was, therefore the Higher Power muſt help us, and to them go we with our Packet of Letters as <hi>Saul</hi> did, for we are not ſpiritual weaponed men as <hi>Paul</hi> was; for in all theſe things are the Prieſts guil<g ref="char:EOLhyphen"/>ty.</p>
+            <p>The Papiſts, Common Prayer men, Preſbiterian,
+<pb n="11" facs="tcp:95571:6"/>
+Independants, Baptiſts, perſecute one another a<g ref="char:EOLhyphen"/>bout their Inventions which they have invented, their Maſs, their Common Prayer, their Directory Church Faith, which they have made and framed, their Inventions and handy-works, and not for the Truth, for they know not what Spirit they are of that perſecute and would have mens lives deſtroyed about Church-Worſhip and Religion, Chriſt ſaith, who ſaid, <hi>He came not to deſtroy mens lives, but to ſave them;</hi> Now they that know not what Spirit they be of that will perſecute and deſtroy mens lives, and not ſave them, we cannot truſt our bo<g ref="char:EOLhyphen"/>dies, ſouls, nor ſpirits into their hands that know not what ſpirit they be of themſelves, they are not like to be truſted with others that would deſtroy by a Law which the Diſciples would have done by Pray<g ref="char:EOLhyphen"/>er, to command fire to come down from Heaven to deſtroy them that would not receive Chriſt, which ſort Chriſt rebukes and tels them that they did not know what ſpirit they are of; and now if they did not know what Spirit they was of, do theſe which have perſecuted about Church and Re<g ref="char:EOLhyphen"/>ligion ſince the Apoſtles daies, who would compel mens Bodies, Goods, Lives, Souls, and Eſtates into their hands by a Law, or make them ſuffer elſe; theſe are not the Miniſters of Chriſt (the Savior) that deſtroyes mens lives, and they know not what Spirit they be of, and the lives, bodies, and ſouls are not to be truſted in their hand; and you that do perſecute ſhall have no Reſurrection to life except you repent; but they that do know what Spirit they be of themſelves, they are in the unrebukable
+<pb n="12" facs="tcp:95571:7"/>
+Zeal, and by the Spirit of God they offer up their ſpirit, their ſouls and bodies to the Lord, which are his, whoſe they are to keep them.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <p>WE be of the Royal Seed, Elect and precious, before the World began, that which (ever) the Sodomites crucified, grieved, and vexed, by their unrighteous, ungodly Converſation, who li<g ref="char:EOLhyphen"/>ved in fulneſs and pleaſures; and abundance of idle<g ref="char:EOLhyphen"/>neſs; And are of the Seed that cannot ſerve the wills and luſts of men, and bow and ſtoop to them, who are a people redeemed out of kindreds, King<g ref="char:EOLhyphen"/>doms, Peoples, and Nations, who are of the Houſe<g ref="char:EOLhyphen"/>hold of God, built up together a ſpiritual Houſe, whoſe builder and maker is God, and do reign up<g ref="char:EOLhyphen"/>on the Earth as Kings and Prieſts unto God, whom we ſerve day and night; and are of the ſeed that hath been ſlain from the Foundation of the World, which the Princes of the World and Councels, and the great and wiſe of the Earth crucified, who lived in the form of Godlineſs of the Saints words, but quench't the ſpirit in themſelves, and being that Birth born of the fleſh, perſecutes that which is born of the ſpirit.</p>
+            <p>We are the Seed, the Annointed which the Pow<g ref="char:EOLhyphen"/>ers of the Earth combines and takes counſel toge<g ref="char:EOLhyphen"/>ther againſt, whom we ſee God ſitting in Heaven laugh them to ſcorn; we are the Royal Prieſt<g ref="char:EOLhyphen"/>hood, who offers dayly to the Lord the ſpiritual Sa<g ref="char:EOLhyphen"/>crifice,
+<pb n="13" facs="tcp:95571:7"/>
+the holy Generation, and the peculiar peo<g ref="char:EOLhyphen"/>ple, zealous of good works, cloathed with the zeal of Chriſt againſt the bad works, and the workers; Therefore of all Nations, Peoples, sects, Waies, Profeſſions, and Talkers of Religion are we hated, by them that be out of the way and power of God, though they profeſs Scriptures, Church Worſhip, and Miniſtry, yet ſuch have crucified Chriſt, and the Lord of Glory: We are them that witneſs the Promiſe of God fulfilled, and that do witneſs that the Ages is come wherein God would ſhew forth his exceeding Riches, and kindneſs, which was wrought amongſt the Apoſtles; we are the Annoin<g ref="char:EOLhyphen"/>ted of God, and his Prophets that he ſaith Touch not, who are as the apple of his Eye, who for our ſakes hath reproved Powers, and Thrones, and Do<g ref="char:EOLhyphen"/>minions, and rebuked them; We are the Preachers of Righteouſneſs in this great City <hi>Sodom</hi> wherein Chriſt was crucified, where the life of the Prophets, and the Apoſtles and holy men of God lies ſlain, and Curſers, Swearers, Drunkards, Eaters and Drinkers that riſeth up to play in all fulneſs, wantonneſs, and prophaneſs profeſſeth their words, and makes mer<g ref="char:EOLhyphen"/>ry over their lives; and the witneſſes ſince the Apo<g ref="char:EOLhyphen"/>ſtles daies have been ſlain, the woman in the Wil<g ref="char:EOLhyphen"/>derneſs, the Lamb and his Wife ſhall be known which is come up out of the Wilderneſs. So in this great City <hi>Sodom</hi> and <hi>Gomorah</hi> the falſe Church and the Whore wherein all the abominations and, that made all the Nations drunk of the Wine of the Wrath of her Fornication, whereby the World is all on heaps about Religion and Church Worſhip,
+<pb n="14" facs="tcp:95571:8"/>
+and the ſeveral waies in Sodomites nature profeſſing the Saints words, imitating forms, killing and ſlay<g ref="char:EOLhyphen"/>ing one another about the profeſſing the Saints words, but out of their life, which ſhews that they are not of the Royal Seed which ſaith Love Ene<g ref="char:EOLhyphen"/>mies, that's the Royal Seed, and they that follows him is of the Royal Prieſthood, and holy People and Generation, amongſt whom is the Royal Law of Love, whereby we cannot reſpect mens perſons, for he who doth is convinced of the Royal Law to be a Tranſgreſſor. So every one of us, that is come to the ſeed of God, that bruiſeth the Serpents head that led man from God, who is the Prince of the World, the Prince of Darkneſs, and the Prince of the Air, the Father of Lyes, a Murderer from the beginning, the Corrupter of Man-kind, the Author of the ſeparation from God, and the Original of ſin, the beginning of it, which led man from his Domi<g ref="char:EOLhyphen"/>nion over the handy works of God, which the Roy<g ref="char:EOLhyphen"/>al Seed Chriſt deſtroyes, and renews man again in the Image of God, and brings him again to his Do<g ref="char:EOLhyphen"/>minion over the handy works of God, and this hun<g ref="char:EOLhyphen"/>dreds of thouſands are now witneſſing, by which they come to be Kings, and redeemed from the Earth, and comes to be made Kings upon the Earth in the Image of God, over the handy works of God, in the wiſdom by which they were created; ſo all Powers whatever that are a terror to evil doers, that bears not the Sword in vaine, to us are a praiſe that do well. And all Kings upon the Earth that are annointed by God, a figure of our Chriſt the King, the annointed, who ends them all, and makes
+<pb n="15" facs="tcp:95571:8"/>
+Kings to reign upon the Earth, amongſt whom Chriſt is King, which thouſands witneſs, amongſt whom he is King, and all other Kings made by man, and putting man on Earthly Crowns, by Earthly Man, will put them off again, if they croſs them, and unking them; this is the ſtate amongſt them in whom Chriſt reigns not, nor the true Magi<g ref="char:EOLhyphen"/>ſtrate, which is to the Evil Doers a Terror; but ſince the Apoſtles daies all hath been in a Confuſion about Religion, Church, and Worſhip, amongſt them that have killed the witneſſes, and ſince the true Church went into the Wilderneſs, and the Witneſſes ſlain, and the man Child caught up to God; So they that have ſlain the Witneſſes, and killed the Saints, hath been in all this confuſion; and the Witneſſes is ri<g ref="char:EOLhyphen"/>ſing, and the Everlaſting Goſpel ſhall be preached again amongſt them that have had the words, but have ſlain the life of the Prophets, and the Apoſtles, unto all Nations, Kindreds, and Tongues of them that dwell upon the Earth; ſo the great Profeſſors of the World, which was the Jews, could not abide Jeſus the King that he ſhould reign, and where he is now in the Male and in the Female he is King, and that makes Kings among whom he is King; All in the Name of the mighty King of Kings is to be done, and then it is in the Power.</p>
+            <p>All Friends, Take heed of running on in a form, leaſt you do loſe the Power; but keep in the Pow<g ref="char:EOLhyphen"/>er and Seed of God in which you will live in the ſubſtance; and at any Diſputes take heed, many may be lifted up in the Victory and Conqueſt, and
+<pb n="16" facs="tcp:95571:9"/>
+after have a joy in the Propheſies and openings, and after fall: And if Brablers come and Janglers, ſay they have a bad Meeting, and ſo the murmur<g ref="char:EOLhyphen"/>ing Nature getteth up, out of patience, and the Seed which beareth all things, and ſuffereth all things, which keepeth down that which cauſeth lifting up, murmuring and diſputing, which the Seed endeth and Propheſie, and keepeth down all the other that is contrary, and would live in the contrary; that which keeps down that which doth change, is the peace and the Corner ſtone, and the ſtaidneſs in the Seed and Life.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+            <pb facs="tcp:95571:9"/>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
